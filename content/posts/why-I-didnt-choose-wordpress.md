@@ -13,7 +13,7 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Why I Didn't Choose Wordpress or: How I Learned to Stop Worrying and Love the Bomb
+# Why I Didn't Choose Wordpress or: How I Learned to Stop Worrying and Love the Hugo
 
 Wordpress is great, mostly.
 
