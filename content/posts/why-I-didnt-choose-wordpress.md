@@ -1,5 +1,5 @@
 +++
-title = "Why I Didn't Choose Wordpress (despite it being my job)"
+title = "Why I Didn't Choose Wordpress or: How I Learned to Stop Worrying and Love the Hugo"
 date = "2023-04-06T21:44:00-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
@@ -13,7 +13,7 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Why I Didn't Choose Wordpress or: How I Learned to Stop Worrying and Love the Bomb
+# 
 
 Wordpress is great, mostly.
 
