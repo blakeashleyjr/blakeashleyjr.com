@@ -3,7 +3,8 @@
 baseURL: "https://blakeashleyjr.com"
 languageCode: "en-us"
 title: "Blake Ashley Jr. - My thoughts on life, work, and tech"
-theme: "terminal"
+theme: "terminal-custom"
+
 
 params:
   # dir name of your blog content (default is `content/posts`)
@@ -17,24 +18,29 @@ params:
   # set theme to full screen width
   fullWidthTheme: false
   # center theme with default width
-  centerTheme: false
-  readingTime: true
-  Toc: true
+  centerTheme: true
 
 languages:
   en:
+    languageName: English
+    title: Blake Ashley Jr.
+    subtitle: My thoughts on tech, work, and life
+    keywords: 'tech, work, life'
+    menuMore: Show more
+    readMore: Read more
+    readOtherPosts: Read other posts
+
     params:
       logo:
         logoText: Blake Ashley Jr.
         logoHomeLink: /
 
-    menu:
-      main:
-      - identifier: about
-        name: About
-        url: /about
-      - identifier: showcase
-        name: Showcase
-        url: /showcase
+    # menu:
+    #   main:
+    #   - identifier: about
+    #     name: About
+    #     url: /about
+
+
 
 ...

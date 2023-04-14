@@ -1,0 +1,57 @@
+<style>
+
+/* container */
+.two-columns {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+/* columns */
+.two-columns > * {
+    width:100%;
+    padding:1rem;
+    padding-top: 5em;
+    padding-bottom: -4em;
+}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+    .two-columns > * {
+        width:50%;
+    }
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  width: 100%;
+}
+</style>
+
+
+
+<div class="two-columns" >
+
+    <div>    
+        <img class="img" src="headshot.jpg" alt="Blake Ashley Jr. Headshot">
+    </div>
+
+    
+    <div style="margin-top: -25px">
+        <h1>I am Blake Ashley Jr.</h1>
+        <p>Welcome to my personal website! 
+            <br><br>
+            I am a DevOps Engineer that has traditionally specialized in web applications (WebOps), specifically massive, complex, highly-trafficed
+            WordPress sites that should have been a static webpage like this one.
+            <br><br>
+            I am currently learning the Go programming language and loving it.
+            <br><br>
+            I spend my free time writing here, working on my homelab, training in Jiu Jitsu, reading, or planning my next backpacking trip.
+            <br><br>
+            You can contact me at <a href="mailto:contact@blakeashleyjr.com">contact@blakeashleyjr.com</a>
+        </p></div>
+
+  </div> 
+
