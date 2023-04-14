@@ -1,5 +1,5 @@
 +++
-title = "Why I Didnt Choose Wordpress"
+title = "Why I Didnt Choose WordPress"
 date = "2023-04-13T20:12:33-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
@@ -13,7 +13,7 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-I have made a career out of WordPress. I am personally responsible for the security, stability, and updates of 1000+ active WordPress installations (not including the few multi-sites.) Collectively, they receive hundreds of thousands of unique visitors *per day*. 
+I have made a career out of WordPress. I am personally responsible for the security, stability, and updates of 1000+ active WordPress installations (not including the few multi-sites.) Collectively, they receive hundreds of thousands of unique visitors *per day*.
 
 I have grown to love WordPress over the years, wholeheartedly recommending it to friends, family, and clients for all sorts of use-cases, and I don't regret it (mostly.)
 
