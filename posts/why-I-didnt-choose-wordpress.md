@@ -15,27 +15,47 @@ draft = true
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 +++
 
-I have made a career out of WordPress. I am personally responsible for the security, stability, and updates of 1000+ active WordPress installations (not including the few multi-sites.) Collectively, they receive hundreds of thousands of unique visitors *per day*. 
+I have made a career out of WordPress. I am personally responsible for the security, stability, and updates of 500+ active WordPress installations (not including the few multi-sites.) Collectively, they receive hundreds of thousands of unique visitors *per day*.
 
-I have grown to love WordPress over the years, wholeheartedly recommending it to friends, family, and clients for all sorts of use-cases, and I don't regret it (mostly.)
+I have grown to love WordPress over the years, wholeheartedly recommending it to friends, family, and clients for all sorts of use-cases, and I don't regret it. WordPress is the closest thing we have to an open website Swiss army knife. It can do pretty much anything you need from a website just fine.
 
-As a hard-earned WordPress guy, I
+Because it is opensource, it is so much better than any of the proprietary hosted alernatives. SquareSpace or Wix could jack their prices at any moment. Meanwhile, I could have a fleet of WordPress sites up on a different host within the hour.
 
-WordPress is overkill for most sites, especially informational sites and personal blogs.
+WordPress is also relatively easy to grasp by everyday people. People who do normal work can be quickly trained on how to make posts and edit pages. This is advantageous for the developer who doesn't want to get called every time a post needs to go up, and for the user, who just wants to get back to their regular job.
 
-WordPress and its ecosystem are truly magnificent, a great example of what FOSS can do for the internet. WordPress can do anything, from run a hotel booking system, a forum, or, wait for it, a blog. That ability to do anything (accomplished by the most robust plugin and theme ecosystem on the planet) is WordPress's greatest strength, and it's fatal flaw. That unmatched ability comes with great complexity (and lots of broken sites).
+That being said, if the operator knows what they are doing, *WordPress is overkill for most sites, especially informational sites and personal blogs.* That is coming from a guy who has used WordPress every day for over 10 years.
 
 And so, I decided to go a different direction for my personal blog: Hugo, a fast, fun, simple static site generator and CMS (content management system) written in Go.
 
 I outline my reasons in more detail below:
 
-### WordPress has a database
+## WordPress's greatest strength and fatal flaw: The plugin and theme ecosystem
 
-This is the root of most of the complaints that will follow. WordPress requires a database. This allows for the great breadth of its functionality, stores comments, allows for complex plugins to accomplish bascially anything. It also introduces an order of magnatitude more complexity to the maintence of the site and its environment. 
+### Too much flexibility
 
-Now you have to worry about the database, backing it up, what effect changes will have on it, etc. It can also cause downtime or content freezes when switches environments or performing updates. 
+I can't quite put my finger on what is wrong with the WordPress plugin and theme ecosystem. On paper, it is the best there is (perhaps of any project). There is a WordPress plugin for *everything*. I once built a hotel booking system all inside WordPress, and I still bring it up in confession from time to time.
 
-Instead, Hugo and other "flat file" CMSs treat content as a file, stored on a hard drive somewhere. While this does limit the breadth of its possible functionality, it is a much better way to handle 95% of what websites and blogs need to do: display text and images to the user.
+It's that flexiblity that can often lead to problems. WordPress can easily be twisted into things that it is not designed to be. WordPress should not be used as forum software. WordPress should not be used as hotel booking software. WordPress (probably) shouldn't be used for anything but small E-Commerce builds. Sure, the operator bears a good portion of the responsiblity for installing these plugins, but it is hard for people to draw the line when they don't think about these things all day long.
+
+While these over-reaching plugins cannot affect the mother project, at least in theory, it is clear they have influenced the development of WordPress towards this jack-of-all-trades software we have today. What started as hyper-focused blogging software, has become a bloated site-builder. Blogging isn't what it used to be, so I understand why Automattic (the corporate sponsor and maintainer of WordPress that offers the most popular WordPress hosting) has guided WordPress towards the more marketable generalist space. As I will get into later, the ability to do anything has made it good at nothing.
+
+### Too much commericalization
+
+While I am not against commericalization of software in general, there is something quite tiring and even icky about the WordPress ecosystem's relationship with its revenue. Do not get me wrong. There are hundreds of excellent, professionally developed plugins and themes out there that deserve to be compensated for their labor.
+
+This quickly leads to ads, upsells, annoying banners, strategically limited functionality, etc. Unbiased analysis of WordPress plugins and themes are difficult if not impossible to come by because of the aggressive affilate marketing of the key players. Some hosts offer hundreds of dollars *per conversion* to a hosting plan.
+
+While I understand, again, but I miss the opensource-focused spirit of the early days. When users were creating websites mostly for themselves, their friends, or their clubs and would release those improvements back to the community.
+
+Hugo seems to have that spirit to me. Themes (including this one) are abundant and available under permissive opensource lisenses. Though it is quite a mature project, it feels like you are on the ground floor of something.
+
+## The root of all WordPress pain: the database
+
+This is the root of most of the complaints that will follow. WordPress requires a database. This allows for the great breadth of its functionality, stores comments, allows for complex plugins to accomplish bascially anything. It also introduces an order of magnatitude more complexity to the maintence of the site and its environment.
+
+You probably just want to get a site and a few posts up. Now you have to worry about the database, backing it up, what effect changes will have on it, etc. It can also cause downtime or content freezes when switches environments or performing updates.
+
+Instead, Hugo and other "static" CMSs treat content as a file, stored on a hard drive somewhere. While this does limit the breadth of its possible functionality, it is a much better way to handle 95% of what websites and blogs need to do: display text and images to the user.
 
 Those files can be tracked in git and managed through any process that the author sees fit. Because content can now be easily tracked in git, it allows for natural version control and collaboration. Version controlling content on WordPress is difficult and efforts to track WordPress content using git have been regretably abandoned.
 
