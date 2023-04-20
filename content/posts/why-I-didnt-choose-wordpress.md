@@ -5,7 +5,7 @@ author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["WordPress", "Hugo", "Bloging", "Opensource"]
-keywords = ["WordPress", "Hugo", "Blog", "Opensource"]]
+keywords = ["WordPress", "Hugo", "Blog", "Opensource"]
 description = ""
 showFullContent = false
 readingTime = true
@@ -23,7 +23,7 @@ Because it is opensource, it is so much better than any of the proprietary hoste
 
 WordPress is also relatively easy to grasp by everyday people. People who do normal work can be quickly trained on how to make posts and edit pages. This is advantageous for the developer who doesn't want to get called every time a post needs to go up, and for the user, who just wants to get back to their regular job.
 
-That being said, if the operator knows what they are doing, *WordPress is overkill for most sites, especially informational sites and personal blogs.* That is coming from a guy who has used WordPress every day for over 10 years.
+That being said, if the operator knows what they are doing, *WordPress is overkill for most sites,* especially informational sites and personal blogs. That is coming from a guy who has used WordPress every day for over 10 years.
 
 And so, I decided to go a different direction for my personal blog: Hugo, a fast, fun, simple static site generator and CMS (content management system) written in Go.
 
@@ -35,9 +35,9 @@ I outline my reasons in more detail below:
 
 I can't quite put my finger on what is wrong with the WordPress plugin and theme ecosystem. On paper, it is the best there is (perhaps of any project). There is a WordPress plugin for *everything*. I once built a hotel booking system all inside WordPress, and I still bring it up in confession from time to time.
 
-It's that flexiblity that can often lead to problems. WordPress can easily be twisted into things that it is not designed to be. WordPress should not be used as forum software. WordPress should not be used as hotel booking software. WordPress (probably) shouldn't be used for anything but small E-Commerce builds. Sure, the operator bears a good portion of the responsiblity for installing these plugins, but it is hard for people to draw the line when they don't think about these things all day long.
+It's that flexiblity that can often lead to problems. WordPress can easily be twisted into unrecognizable Frankensteins. WordPress should not be used as forum software. WordPress should not be used as hotel booking software. WordPress (probably) shouldn't be used for anything but small E-Commerce builds. Sure, the operator bears a good portion of the responsiblity for installing these plugins, but it is hard for people to draw the line when they don't think about these things all day long.
 
-While these over-reaching plugins cannot affect the mother project, at least in theory, it is clear they have influenced the development of WordPress towards this jack-of-all-trades software we have today. What started as hyper-focused blogging software, has become a bloated site-builder. Blogging isn't what it used to be, so I understand why Automattic (the corporate sponsor and maintainer of WordPress that offers the most popular WordPress hosting) has guided WordPress towards the more marketable generalist space. As I will get into later, the ability to do anything has made it good at nothing.
+It is clear these popular, expensive, and purpose-transforming plugins have pushed the development of WordPress towards this jack-of-all-trades software we have today. What started as hyper-focused blogging software, has become a bloated site-builder, capable of anything, good at nothing.[^1]
 
 ### Too much commericalization
 
@@ -91,4 +91,6 @@ This is especially tragic considering WordPress's beginnings and stated purpose:
 
 ### Conclusion
 
-I have a tricky relationship with WordPress. On the one hand, it is one of the most successful open-source projects of all time, running half the websites on the planet and making website administration accessible to every day peple. On the other, it is a clunky behemoth that has lost its way. When it is not down due to a database issue, failed update, or other issue, you are wrestling with performance issues or chopping off your left arm to purchase a new plugin. 
+I have a tricky relationship with WordPress. On the one hand, it is one of the most successful open-source projects of all time, running half the websites on the planet and making website administration accessible to every day people. On the other, it is a clunky behemoth that has lost its way. When it is not down due to a database issue, failed update, or other issue, you are wrestling with performance issues or chopping off your left arm to purchase a new plugin. 
+
+[^1]: Blogging isn't what it used to be, so I understand why Automattic (the corporate sponsor and maintainer of WordPress that offers the most popular WordPress hosting) has guided WordPress towards the more marketable generalist space. 
