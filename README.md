@@ -1,4 +1,4 @@
-# [blakeashleyjr.com] https://blakeashleyjr.com
+# [blakeashleyjr.com](https://blakeashleyjr.com)
 
 This is the repo for my personal website. It includes the code for the site itself (a Hugo site), the Hugo theme, and all of the post content.
 
