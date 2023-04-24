@@ -46,6 +46,18 @@
     {{- end -}}
   </div>
 
+  {{ if .Params.license }}
+    <hr>
+    <div class="post-licenses" style="font-size: small;">
+      {{ if and (.Param "content-license") (eq (.Param "content-license") "CC BY-NC-SA 4.0") }}
+        {{ partial "CC-BY-NC-SA-4.html" . }}
+      {{ end }}
+      {{ if and (.Param "code-license") (eq (.Param "code-license") "Apache License 2.0") }}
+        {{ partial "apache-2.html" . }}
+      {{ end }}
+    </div>
+  {{ end }}
+
   {{ if eq .Type $.Site.Params.contentTypeName }}
     {{ partial "posts_pagination.html" . }}
   {{ end }}

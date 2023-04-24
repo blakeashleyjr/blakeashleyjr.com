@@ -4,7 +4,7 @@ date = "2023-04-18T13:29:35-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["WordPress", "Hugo", "Bloging", "Opensource"]
+tags = ["WordPress", "Hugo", "Blogging", "Opensource"]
 keywords = ["WordPress", "Hugo", "Blog", "Opensource"]
 description = ""
 showFullContent = false
@@ -13,6 +13,11 @@ hideComments = false
 color = "" #color from the theme settings
 draft = false
 lastmod = ["lastmod", ":git", "date", "publishDate"]
+license = true
+content-license = "CC BY-NC-SA 4.0"
+content-license-link = "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+code-license = "Apache License 2.0"
+code-license-link = "https://www.apache.org/licenses/LICENSE-2.0.html"
 +++
 
 I have made a career out of WordPress. I am personally responsible for the security, stability, and updates of 500+ active WordPress installations (not including the few multi-sites.) Collectively, they receive hundreds of thousands of unique visitors *per day*.
