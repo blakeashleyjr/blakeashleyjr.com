@@ -79,6 +79,8 @@ Being static makes Hugo much easier to spread around via a CDN, because the site
 
 This static approach comes with major drawbacks though. That database, as it turns out, is pretty useful. It stores comments, user accounts, and other convient things. On Hugo, if you want to do much more than display some text or images, you'll need to embed an external, often costly, or privacy-invading service on your page. You can always choose to self-host alternatives, but now you are dealing with a whole other can of worms.
 
+{{< newsletter-form >}}  
+
 ## WordPress's treats writing as a second class citizen
 
 I am saddened by the state of the WordPress editor. While Gutenberg is *okay* for basic pages, anything beyond simple columnar layouts quickly becomes overwhelming and unmanagable. The designers have chosen a flashy design over simplicity and clear presentation of the layout.
