@@ -65,6 +65,8 @@ The content is no longer tied to the platform. I can write the content for this 
 
 It also simplifies migration and backup strategies. I've got all my Hugo content stored as Markdown files in git, on a flash drive, and anywhere else I choose. My content is in a format that is exteremly interoperable.
 
+{{< newsletter-form >}}
+
 ### It is (often) slow
 
 Because WordPress is *dynamic*, it is slow. Everytime a user loads a page, at least most of the time, a call goes out to an SQL database. Without careful planning and tuning, this will quickly cause performance problems.
