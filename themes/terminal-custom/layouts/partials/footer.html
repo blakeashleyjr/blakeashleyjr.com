@@ -30,12 +30,12 @@
       <br>
       BTC: bc1qzy7ah5h9q3esq69vaxnnkhyss5543hr5m43f0y
   </p>
-  <hr>
+  <hr/>
     {{ if $.Site.Copyright }}
       <div class="copyright copyright--user">
         <span>{{ $.Site.Copyright | safeHTML }}</span>
     {{ else }}
-      <div class="copyright">
+      <div class="copyright" style="margin-top: 1em;">
         <span>© {{ now.Year }} Blake Ashley Jr. :: Powered by <a href="http://gohugo.io">Hugo</a></span> <br>
     {{ end }}
       <span> Soft fork of the <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Terminal theme</a> originally by <a href="https://github.com/panr" target="_blank">panr</a></span>
