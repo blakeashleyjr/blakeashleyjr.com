@@ -5,6 +5,7 @@
     </div>
   {{ end }}
   {{ partial "about.html" . }}
+  {{ partial "newsletter-form.html" . }}
   {{ partial "home-divider.html" . }}
   <div class="posts">
     {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
