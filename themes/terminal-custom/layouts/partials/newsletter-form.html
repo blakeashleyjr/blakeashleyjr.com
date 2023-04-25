@@ -1,4 +1,7 @@
 <style>
+    .newsletter-box {
+        padding-top: 1em;
+    }
     .newsletter-form {
         /* text-align: center; */
         /* padding-bottom: 25px; */
@@ -24,10 +27,33 @@
         padding-bottom: 0px;
         font-size: small;
     }
+
+    .email-input {
+        width: 95%;
+    }
+
+    @media (max-width: 800px) {
+    .input-group input {
+        margin: 10px 0;
+        width: 100%;
+    }
+
+    .input-group {
+        flex-direction: column;
+    }
+
+    .input-group-btn {
+        margin: 10px 0;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}
 </style>
 
 <!-- /input-group -->
-  
+<div class="newsletter-box">
 <form class="newsletter-form" action="https://formspree.io/f/mlekawbg" method="post">
     <p class="newsletter-heading">Subscribe to my newsletter</p>
     <div class="input-group flex">
@@ -38,3 +64,4 @@
       </div>
       <p class="newsletter-info"><i>No spam or sold emails. This is for blog posts and occasional updates.</i></p>
   </form>
+</div>
