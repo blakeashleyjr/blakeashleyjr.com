@@ -20,25 +20,25 @@
     color: inherit;
   }
 
-  .copyright {
-    display: flex;
-    flex-flow: row wrap;
-    flex: 1;
-    align-items: center;
-    font-size: 1rem;
-    justify-content: center;
+  // .copyright {
+  //   display: flex;
+  //   flex-flow: row wrap;
+  //   flex: 1;
+  //   align-items: center;
+  //   font-size: 1rem;
+  //   justify-content: center;
 
-    &--user {
-      margin: auto;
-      text-align: center;
-    }
+  //   &--user {
+  //     margin: auto;
+  //     text-align: center;
+  //   }
 
-    & > *:first-child:not(:only-child) {
-      margin-right: 10px;
-    }
+  //   & > *:first-child:not(:only-child) {
+  //     margin-right: 10px;
+  //   }
 
     // span {
     //   white-space: nowrap;
     // }
-  }
+  // }
 }
