@@ -1,24 +1,23 @@
-<div class="footer__inner">
+<style>
   
-  <style>
-    footer {text-align: center;}
+  .footer {
+    text-align: center;
+    }
+
 </style>
 
+<div class="footer__inner">
+
 <footer class="footer">
-  
   <hr/>
-  
   <p>Connect with me on <a rel="me" href="https://mastodon.social/@blakeashleyjr">Mastodon.</a></p>
-  
   <hr/>
-  
   <p>Feel free to contact me via:
       <br>
       Email: <a href=mailto:contact@blakeashleyjr.com>contact@blakeashleyjr.com</a> | <a href="/pgp.txt">PGP Key</a>
       <br>
       Simplex: <a href="https://simplex.chat/contact/#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2F2fCAMxU3IXotNTAitpSvxrGYo-FnlJQA%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAN2lch-eWd06DPrNKJJU-bYlkxYt9PDsCiM7p28uqMHk%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion">Simplex Contact Link</a>
   </p>
-  
   
   <hr/>
   
@@ -30,7 +29,9 @@
       <br>
       BTC: bc1qzy7ah5h9q3esq69vaxnnkhyss5543hr5m43f0y
   </p>
+
   <hr/>
+
     {{ if $.Site.Copyright }}
       <div class="copyright copyright--user">
         <span>{{ $.Site.Copyright | safeHTML }}</span>
@@ -41,6 +42,7 @@
       <span> <a href="https://github.com/blakeashleyjr/blakeashleyjr.com">Soft fork</a> of the <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Terminal theme</a> released under the <a href="https://mit-license.org/">MIT License</a> </span>
       </div>
   </div>
+
 </footer>
 
 {{ $menu := resources.Get "js/menu.js" | js.Build }}
