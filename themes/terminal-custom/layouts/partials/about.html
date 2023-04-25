@@ -21,13 +21,23 @@
     }
 }
 
-.img {
-  display: block;
+/* .img {
+  /* display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: auto;
+  margin-top: auto; 
   width: 600px;
-  height: auto;
+  height: 540px;
+} 
+*/
+
+.img-container {
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto; */
+  width: 600px;
+  height: 540px;
 }
 </style>
 
@@ -36,7 +46,7 @@
 <div class="two-columns" >
 
     <div>
-        <picture>
+        <picture class="img-container">
             <source srcset="headshot-600.webp" class="img" alt="Blake Ashley Jr. Headshot, man wearing a suit with a blurred city in the background">    
             <source srcset="headshot-600.jpg" class="img" alt="Blake Ashley Jr. Headshot, man wearing a suit with a blurred city in the background">
             <img class="img" src="headshot-600.jpg" alt="Blake Ashley Jr. Headshot, man wearing a suit with a blurred city in the background">
