@@ -26,6 +26,8 @@ In John Wick 4, nearly every character, no matter how insignificant, wears a bul
 
 When John Wick was released in 2014, it became an immediate classic, and my favorite action movie. While the plot made little sense, the film established an interesting lore that was enough not to distract from the main attraction: Keanu killing hoards of thugs in near-constant hand-to-hand combat. Unlike most action movies, John Wick didn't use any tricks to distract the viewer from the fights. No shaking camera. No sketchy cuts. No seeing the back of a stuntman's head in the middle of a fight.
 
+{{< newsletter-form >}}
+
 John Wick had a problem though, a problem most action movies face. People are not bulletproof. Unless the hero is superhuman, they cannot be shot repeatedly and walk away, at least believably. Most movies solve this problem unconvincingly, by having the hero luckily dodge bullets throughout the entire movie. Minor characters and even side-kicks will die along the away, but the hero will not be mortally shot in a gunfight.
 
 This lowers the stakes for the viewer. I know the hero will not die, especially in the first 95% of the movie, so I lose the suspense. Combine that with a shakey camera and unconvincing fighting, and I am snoozing.
