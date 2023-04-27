@@ -3,7 +3,7 @@ title = "John Wick's Bulletproof Suit Makes the Series More Believable, Not Less
 date = "2023-04-26T19:15:27-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
-cover = ""
+cover = "/posts/john-wick.webp"
 tags = ["John Wick", "Movies", "Sci-fi"]
 keywords = ["John Wick", "Movies", "Sci-fi"]
 description = ""
@@ -19,6 +19,8 @@ content-license-link = "https://creativecommons.org/licenses/by-nc-sa/4.0/legalc
 code-license = "Apache License 2.0"
 code-license-link = "https://www.apache.org/licenses/LICENSE-2.0.html"
 +++
+
+<!-- {{< figure src="/posts/john-wick.jpg" title=">a headshot of John Wick" >}} -->
 
 John Wick 4 is bigger, better, badder than any other fighting-focused action movie, ever. It improves on the earlier installments with its creativity, scale, and precision. Of course, I am only talking about the fighting. The plot was relatively weak, as it was in the others, but man was the fighting good. The people who said it was too long were wrong.****
 
