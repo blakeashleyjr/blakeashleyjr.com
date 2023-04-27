@@ -30,7 +30,7 @@ John Wick had a problem though, a problem most action movies face. People are no
 
 This lowers the stakes for the viewer. I know the hero will not die, especially in the first 95% of the movie, so I lose the suspense. Combine that with a shakey camera and unconvincing fighting, and I am snoozing.
 
-The John Wick franchise goes a different direction. Everyone knows that John Wick is not going to be shot dead in the middle of a fight with some grunt 20 minutes into the movie, so there is no need to pretend there is any chance of that happening. So, the franchise introduces bullet-proof suits in the second movie, and they are presented rather convincingly.
+The John Wick franchise goes a different direction. Everyone knows that John Wick is not going to be shot dead in the middle of a fight with some grunt 20 minutes into the movie, so there is no need to pretend there is any chance of that happening. Instead, the franchise introduces bullet-proof suits in the second movie, and they are presented rather convincingly.
 
 {{< youtube id="jMFqIaoj3iA?start=127" autoplay="false">}}
 
