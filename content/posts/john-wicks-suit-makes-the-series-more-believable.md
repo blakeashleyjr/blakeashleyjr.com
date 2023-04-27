@@ -20,7 +20,7 @@ code-license = "Apache License 2.0"
 code-license-link = "https://www.apache.org/licenses/LICENSE-2.0.html"
 +++
 
-John Wick 4 is bigger, better, badder than any other fighting-focused action movie, ever. It improves on the earlier installments with its creativity, scale, and precision. Of course, I am only talking about the fighting. The plot was relatively weak, as it was in the others, but man was the fighting good. The people who said it was too long were wrong.****
+John Wick 4 is bigger, better, badder than any other fighting-focused action movie, ever. It improves on the earlier installments with its creativity, scale, and precision. Of course, I am only talking about the fighting. The plot was relatively weak, as it was in the others, but man was the fighting good. The people who said it was too long were wrong.
 
 In John Wick 4, nearly every character, no matter how insignificant, wears a bullet-proof suit. As best I can tell, these suits are still mostly science-fiction[^1][^2] (please correct me in the comments if you know better.) When the suit was introduced in the second installment, it was a simple plot device to keep us from rolling our eyes everytime John came out of a fight magically unscathed by a storm of bullets. By the fourth movie, it has transformed the entire fighting dynamic to allow for a new, more belivable fighting style that requires more martial arts than bullet-dodging.
 
