@@ -44,9 +44,9 @@ It's that flexiblity that can often lead to problems. WordPress can easily be tw
 
 It is clear these popular, expensive, and purpose-transforming plugins have pushed the development of WordPress towards this jack-of-all-trades software we have today. What started as hyper-focused blogging software, has become a bloated site-builder, capable of anything, good at nothing.[^1]
 
-### Too much commericalization
+### Too much commercialization
 
-While I am not against commericalization of software in general, there is something quite tiring and even icky about the WordPress ecosystem's relationship with its revenue. Do not get me wrong. There are hundreds of excellent, professionally developed plugins and themes out there that deserve to be compensated for their labor.
+While I am not against commercialization of software in general, there is something quite tiring and even icky about the WordPress ecosystem's relationship with its revenue. Do not get me wrong. There are hundreds of excellent, professionally developed plugins and themes out there that deserve to be compensated for their labor.
 
 Unfortunately, this quickly leads to ads, upsells, annoying banners, strategically limited functionality, etc. Unbiased analysis of WordPress plugins and themes are difficult if not impossible to come by because of the aggressive affilate marketing of the key players. Some hosts offer hundreds of dollars *per conversion* to a hosting plan.
 
