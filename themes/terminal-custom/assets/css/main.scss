@@ -56,6 +56,13 @@ body {
   }
 }
 
+.footnote-ref {
+  color: $accent !important;
+  // letter-spacing: 2px !important;
+  padding-left: 1px !important;
+  padding-right: 1px !important;
+}
+
 a {
   color: inherit;
 
