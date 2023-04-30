@@ -60,6 +60,8 @@ module:
   - source: archetypes
     target: archetypes
 
-
+  youtube:
+    disable: false
+    privacyEnhanced: true
 
 ...
