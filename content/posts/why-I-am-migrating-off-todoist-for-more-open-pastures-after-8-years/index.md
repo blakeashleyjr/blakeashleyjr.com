@@ -22,7 +22,7 @@ code-license-link = "https://www.apache.org/licenses/LICENSE-2.0.html"
 
 I am migrating off of Todoist after 8 years and over 12,000 tasks completed. Todoist has been the core of my organization and productivity since I created my account on the service. It got me through college and my professional life so far. Overall, I enjoyed the service and happily paid for the business account.
 
-{{< figure src="/posts/why-I-am-migrating-off-todoist-for-more-open-pastures-after-8-years/Todoist-Screenshot.webp" alt="Screenshot showing over 12,000 tasks completed on Todoist" position="center" caption="My Todist Karma" style="width: 403px;">}}
+{{< figure src="Todoist-Screenshot.webp" alt="Screenshot showing over 12,000 tasks completed on Todoist" position="center" caption="My Todist Karma" style="width: 403px;">}}
 
 All was well until a few weeks ago. I changed my email as I continually de-google my life. Todoist being one of my most important accounts, I changed the account email. Logged out. Bitwarden auto-filled the new details for me. Locked out. "Incorrect email or password" for both the old email and the new one.
 
