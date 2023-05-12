@@ -20,7 +20,7 @@ code-license = "Apache License 2.0"
 code-license-link = "https://www.apache.org/licenses/LICENSE-2.0.html"
 +++
 
-Tucker Carlson Tonight was the [most popular](https://www.adweek.com/tvnewser/fox-news-q2-2020-ratings-tucker-carlson-averaged-4-3-million-viewers-in-the-8-p-m-hour-the-largest-audience-in-cable-news-history/) primetime news show in the US from April 2020 until the shows sudden cancelation on April 24, 2023. Carlson was suddenly fired due in large part to [text messages](https://www.nytimes.com/2023/05/02/business/media/tucker-carlson-text-message-white-men.html) that were likely come out if the Dominion Voting Systems defamation lawsuit were to go to trial, causing the Fox board to pay nearly $800M to settle the case. They were leaked anyway.
+Tucker Carlson Tonight was the [most popular](https://www.adweek.com/tvnewser/fox-news-q2-2020-ratings-tucker-carlson-averaged-4-3-million-viewers-in-the-8-p-m-hour-the-largest-audience-in-cable-news-history/) primetime news show in the US from April 2020 until the shows sudden cancelation on April 24, 2023. Carlson was suddenly fired due in large part to [text messages](https://www.nytimes.com/2023/05/02/business/media/tucker-carlson-text-message-white-men.html) that were likely to come out if the Dominion Voting Systems defamation lawsuit were to go to trial, causing the Fox board to pay nearly $800M to settle the case. They were leaked anyway.
 
 His messages were unacceptable, and I would have fired him for them without thinking twice. At the same time, it made me think about how I would feel about having every message, email, or photo I have ever sent scrutinized by a team of lawyers intent on destroying me and then leaked on the internet. That would not be fun.
 
