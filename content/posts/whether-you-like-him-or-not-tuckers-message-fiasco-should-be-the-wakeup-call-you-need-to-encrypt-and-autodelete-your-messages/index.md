@@ -30,6 +30,8 @@ Signal is end-to-end encrypted, which will stop meddling intermediaries from spy
 
 That is all well and good, but if the government shows up with a search warrant or subpoena for that content of your phone, you are likely screwed. While you may be able to technically keep the government out via full-disk encryption, the real-world penalties for doing so will likely be painful. This is where [disappearing messages](https://support.signal.org/hc/en-us/articles/360007320771-Set-and-manage-disappearing-messages) come in. Judges and others are aware of the potential of these features to hide potentially damaging evidence. The judge in the Sam Bankman-Fried case, for example, [ordered SBF](https://www.businessinsider.com/judge-blocks-sam-bankman-fried-auto-delete-texts-whatsapp-signal-2023-2) to stop using Signal because of its ability to auto-delete messages.
 
+{{< newsletter-form >}}
+
 With Signal, you can set a time limit for messages, after which, they will be deleted from the device of all parties. As the helpdesk article warns, this is not intended for protection against the recipient of the message, but for people coming along later and looking through the phone. This would have likely prevented those messages from being read in court years later (unless the other party screenshots them).
 
 My wife and I have used Signal for years now for all of our digital communication. We also auto-delete our messages. Not once have I regretted auto-deleting. I save any fun or relevant info in my notes and download any photos I want to keep. Everything else goes away. I do the same for other chats with friends and co-workers.
