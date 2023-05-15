@@ -38,5 +38,5 @@ My wife and I have used Signal for years now for all of our digital communicatio
 
 Now is your chance to take stock of your digital life and the footprint you leave behind. Think twice before sending a message, even over Signal. You will likely not be able to predict when you will be sued, investigated, or otherwise thrown into the lime-light. 
 
-[^1]: While I like Signal, especially communicating with normal, non-techie folks, there is plenty of game in town. See the Privacy Guides [list](https://www.privacyguides.org/en/real-time-communication/) of private and secure messenger software. I personally like Simplex for communication with strangers, as I would rather not hand out a phone number. Reach out to me via the link in my signature to try it out!
+[^1]: While I like Signal, especially when communicating with normal, non-techie folks, there is plenty of game in town. See the Privacy Guides [list](https://www.privacyguides.org/en/real-time-communication/) of private and secure messenger software. I personally like Simplex for communication with strangers, as I would rather not hand out a phone number. Reach out to me via the link in my signature to try it out!
 
