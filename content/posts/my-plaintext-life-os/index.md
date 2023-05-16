@@ -1,5 +1,5 @@
 +++
-title = "My Plaintext Life Os"
+title = "Elephant: My Plaintext Life OS"
 date = "2023-05-15T17:28:00-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
@@ -32,6 +32,6 @@ An [operating system](https://en.wikipedia.org/wiki/Operating_system) is low-lev
 
 My "hardware" is my affectionate name for my low-level needs and desires, both physical and emotional. 
 
-
-
 My "software" 
+
+- Use 
