@@ -59,14 +59,25 @@
 
 <!-- /input-group -->
 <div class="newsletter-box">
-<form class="newsletter-form" action="https://formspree.io/f/mlekawbg" method="post">
+<form class="newsletter-form" action="https://getsendstack.com/forms/a04fb31d-e4a0-48c4-9a3a-c3dac6c5a1b6/subscribers" method="post">
+
+    <span data-element="success" style="display: none;">
+        Success! Please verify your email address to confirm your subscription.
+    </span>
+
+    <ul data-element="errors" style="display: none;"></ul>
+
     <p class="newsletter-heading">Subscribe to my newsletter</p>
     <div class="input-group flex">
         <input name="email" type="email" class="email-input" aria-label="Email address input">
         <span class="input-group-btn">
           <button class="btn btn-default" type="submit">Subscribe</button>
+          <input type="hidden" name="tags" value="blog-form" />
         </span>
-      </div>
+    </div>
       <p class="newsletter-info"><i>No spam or sold emails. This is for blog posts and occasional updates.</i></p>
   </form>
 </div>
+
+<!-- Include our JS snippet to avoid form redirects
+<script src="https://getsendstack.com/js/form.js"></script> -->
