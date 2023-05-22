@@ -1,5 +1,5 @@
 +++
-title = "Elephant: My Plaintext Life OS"
+title = "Elephant: My Plain-Text Life OS"
 date = "2023-05-15T17:28:00-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
@@ -68,11 +68,7 @@ Here is a sample of that template:
 
 ## Good morning!
 
-***Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:***
-
-***But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:*** 
-
-***For where your treasure is, there will your heart be also.***
+Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: For where your treasure is, there will your heart be also.
 
 ---
 
@@ -165,10 +161,74 @@ I looked a few of the leading plain-text todo systems and saw pros and cons in e
 Here is my daily list:
 
 ```Markdown
+# Current Tasks
 
+## Now
+
+[ ] Finish blog post on Elephant
+
+[ ] ! Complete work project and email boss about it
+
+[ ] Book Play Tickets -> 5-10-2023
+
+## Next
+
+[ ] Buy gift for brother
+
+[@] Get the flight sim setup #personal
+
+### Dated
+
+[ ] ! File taxes before deadline #chores -> 03-18-2023
+
+### Undated
+
+[ ] ! Audit all accounts in Bitwarden
+    - [ ] Delete unnecessary accounts
+    - [ ] Change email and personal info in necessary ones
+
+[ ] !! Reach out to accountant for status
+
+## Reocurring
+
+[ ] Do laundry -> every tues
+
+[ ] Check the air filter #chores -> 1st of every 3rd month (last done on 02/01/23)
+
+[ ] Submit my expense report -> 1st workday of each month
+
+### Waiting
+
+[@] Reach back out to contractor
+
+## Someday/Maybe
+
+[ ] !! Learn German
+
+## Done
+
+[X] ! Freeze credit
+
+
+## Guide
+
+[ ] This is an open item
+[ ] ! This is an important task
+[ ] !! This is a less important but still important task
+[x] This is a checked item
+[@] This is an ongoing item
+[~] This is an obsolete item
+[?] This is an item in question
+[ ] This shall be done by -> 2023-08-31
 ```
 
-## Why Plain Text?
+My todolist is specifically designed not to spook the elephant. Most tasks do not have a due date. I avoid them unless they are necessary. The potential stress of them outweighs their benefit, especially for me.
+
+You will not even find a "today" section. Before, I would always end up with 20+ tasks due "today," no matter what I tried. Instead, I focus on *now.* Now might change throughout the day, depending on how much I accomplish, or it may stay the same for a few days over a weekend or as I work on a big project. So I only have "now" and "next" for tasks that have to be done soon. Otherwise, they go into the "dated" or "undated" sections.
+
+I find this combination of plain-text, simpleness, and pressure avoidance really works wonders on my day. Most days, I am able to make progress on what I need to do. Ocassionally, I won't get much done, and that's okay. It'll still be there when I get back, only without any warnings or red text telling me how much of a failure I have been.
+
+## Why Plain-Text?
 
 [^1] My wife and I do a twice-weekly "state of the union" in which we do the following:
 
