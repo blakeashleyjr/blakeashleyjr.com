@@ -307,6 +307,8 @@ Perseverance is important, when necessary. When I was disordered, everything I d
 
 Self-discipline is important, but it requires a foundation. I need to be healthy before I could “push through” the desire to quit or my lack of energy. I had to build my subconscious (as it relates to work) up from the ground before there was anything to push with. As I become more and more ordered, I naturally develop the ability to work longer and harder. My elephant gets stronger and healthier over time, as I treat him right.
 
+{{< newsletter-form >}}
+
 ## Conclusion
 
 My elephant is my friend and my companion. If I want to get to my destination (flourishing, success, peace), I must persuade the elephant to get up and start walking. If I abuse my elephant, he will not trust me. He will not obey me. So I will resort to increasingly abusive methods to compel his obedience. Eventually he will be broken and so will I.
