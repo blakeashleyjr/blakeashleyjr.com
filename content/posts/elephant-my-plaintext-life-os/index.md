@@ -27,7 +27,7 @@ And so, I began years of productivity cycles. At first, my rider would excite th
 
 This created a vicious and painful cycle. The only way I could get things done was if the threat of failure was so great I could rouse my distrustful elephant to action. If there was no meaningful deadline, I did not do *anything.*[^2]
 
-In response to this, I thought the solution would be more and more organization. It was my system that failed me, I would tell myself. My schedule was not planned tightly enough. My will was not sufficient.
+In response to this, I developed increasingly complicated organizational systems for myself. It was my system that failed me, I would tell myself. My schedule was not planned tightly enough. My will was not sufficient.
 
 Organization, of course, was not the problem. It was a distraction. 
 
@@ -326,7 +326,3 @@ As I learn to treat my elephant better, I developed a simple, plain-text “oper
     - budget
     - discuss upcoming events, make sure the other is available, etc.
     - discuss the state of our marriage, what could be improved, things we could do for each other, etc.
-
-  
-
-
