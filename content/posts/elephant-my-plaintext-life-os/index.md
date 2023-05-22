@@ -1,6 +1,6 @@
 +++
 title = "Elephant: My Plain-Text Life OS"
-date = "2023-05-15T17:28:00-07:00"
+date = "2023-05-21T17:28:00-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
 cover = ""
@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = true
 hideComments = false
 color = "" #color from the theme settings
-draft = true
+draft = false
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 license = true
 content-license = "CC BY-NC-SA 4.0"
@@ -297,9 +297,13 @@ It is philosophical:
 
 *I plan diving into this more in other posts.*
 
-## What about endurance, perservenrence, and self-discipline?
+## What about perseverance and self-discipline?
 
+This is a long game. Just like trust with another person takes time. It takes time for your elephant to trust you.
 
+Perseverance is important, when necessary. When I was disordered, everything I did required perseverance, because it was such an event to complete the task. As my elephant began to trust me, he understood that when I asked him to push through, it was actually required.
+
+Self-discipline is important, but it requires a foundation. I need to be healthy before I could “push through” the desire to quit or my lack of energy. I had to build my subconscious (as it relates to work) up from the ground before there was anything to push with. As I become more and more ordered, I naturally develop the ability to work longer and harder. My elephant gets stronger and healthier over time, as I treat him right.
 
 ## Conclusion
 
