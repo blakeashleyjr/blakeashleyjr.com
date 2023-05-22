@@ -35,7 +35,7 @@ While my elephant lay exhausted or otherwise unwilling to move, my rider spent h
 
 A rider looks far down the road, guiding the elephant on a path that will lead him to long-term flourishing, but the rider carefully listens to the desires of his trusty mount, tending to his needs with care and swiftness.
 
-And so, the use of the phrase “operating system” is both genuine in the sense that it seeks to dictate the lower-level functions of my brain, but it also is an ironic homage to the foolishness of my younger self, a reminder that I am in-fact human. It also sounds cool.
+And so, the use of the phrase [“operating system”](https://en.wikipedia.org/wiki/Operating_system) is both genuine in the sense that it seeks to dictate the lower-level functions of my brain, but it also is an ironic homage to the foolishness of my younger self, a reminder that I am in-fact human. It also sounds cool.
 
 This philosophical shift in the way I view productivity brought practical changes to my day-to-day life. Instead of constantly looking for new tools and hacks to “optimize” my day or developing increasingly complex productivity systems, my focus shifted down to my elephant. 
 
