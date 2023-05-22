@@ -45,6 +45,8 @@ I now focus primarily on *how* I complete tasks, rather than what I complete. My
 
 This led me to develop a basic productivity and knowledge system that is entirely plain-text. I explain why this is important later on. It is a collection of markdown files that I synchronize with Syncthing and Git. I edit them in VSCode or using a text editor on my phone.
 
+I named it "Elephant" after my new best friend.
+
 As a result, my productivity and my happiness have skyrocketed.
 
 {{< newsletter-form >}}
