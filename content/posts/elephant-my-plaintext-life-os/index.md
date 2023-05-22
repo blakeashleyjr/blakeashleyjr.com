@@ -274,32 +274,26 @@ Plain-text is both a practical and philosophical choice.
 
 It is practical:
 
-    - It is interoperable and readable anywhere. I do not have to rely on any company
-    or tool to access my thoughts, memories, and ideas. 
-    - It is fast and light. I can open this text file on any operable computer on the
-    planet. I do not need to wait on things to load. A decade's worth of thoughts take
-    up almost no space at all.
+    - It is interoperable and readable anywhere. I do not have to rely on any company or tool to access my thoughts, memories, and ideas.
+ 
+    - It is fast and light. I can open this text file on any operable computer on the planet. I do not need to wait on things to load. A decade's worth of thoughts take up almost no space at all.
+
     - I do not need to be connected to the internet.
-    - I have much more control over my favorite text editor (VSCode) than I would any 
-    other app.
+
+    - I have much more control over my favorite text editor (VSCode) than I would any other app.
   
 
 It is philosophical:
 
-    - Apps enforce a philsophy by definition. They are taking my input and organizing 
-    them in a specific and opininated way. That can be great, especially if I built the
-    app or the app maker thinks a lot like me. I want freedom. I want to be able to
-    customize my templates and system at will, without enforcing that change on the past.
-    - Apps usually control my data. Without special precautions, I could lose my work in
-    the event a company goes out of business, changes their policies, decides they don't
-    like me, or misunderstands me.
-    - Plain-text is easily private. I control where these files go. I can encrypt them
-    without much trouble. I don't have to give a company access to the most private records
-    of my life.
-    - Plain-text is simple. I have a problem with over-complicating systems. There is only
-    so much you can complicate with plain-text.
-    - I want to focus on words. Words represent ideas, thoughts, dreams, memories, or plans.
-    I want as little as possible between my brain and words.
+    - Apps enforce a philsophy by definition. They are taking my input and organizing them in a specific and opininated way. That can be great, especially if I built the app or the app maker thinks a lot like me. I want freedom. I want to be able to customize my templates and system at will, without enforcing that change on the past.
+
+    - Apps usually control my data. Without special precautions, I could lose my work in the event a company goes out of business, changes their policies, decides they don't like me, misunderstands me.
+
+    - Plain-text is easily private. I control where these files go. I can encrypt them without much trouble. I don't have to give a company access to the most private records of my life.
+
+    - Plain-text is simple. I have a problem with over-complicating systems. There is only so much you can complicate with plain-text.
+
+    - I want to focus on words. Words represent ideas, thoughts, dreams, memories, or plans. I want as little as possible between my brain and words.
 
 *I plan diving into this more in other posts.*
 
