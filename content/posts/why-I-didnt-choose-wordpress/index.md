@@ -1,5 +1,5 @@
 +++
-title = "Why I Didn't Choose Wordpress For My Blog, Despite Being a WordPress Pro"
+title = "Why I Didn't Choose WordPress For My Blog, Despite Being a WordPress Pro"
 date = "2023-04-18T13:29:35-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
