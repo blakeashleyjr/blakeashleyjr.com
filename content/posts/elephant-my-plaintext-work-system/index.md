@@ -1,5 +1,5 @@
 +++
-title = "Elephant: My Plain-Text Life OS"
+title = "Elephant: My Plain-Text Work System"
 date = "2023-05-21T17:28:00-07:00"
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
@@ -34,8 +34,6 @@ Organization, of course, was not the problem. It was a distraction.
 While my elephant lay exhausted or otherwise unwilling to move, my rider spent his days planning the journey. Instead, he should have been tending his elephant.[^3] My subconscious is not a computer. It is an elephant. There is no such thing as an internal command, only requests. Each thing I do is a negotiation with the lumbering beast I depend on.
 
 A rider looks far down the road, guiding the elephant on a path that will lead him to long-term flourishing, but the rider carefully listens to the desires of his trusty mount, tending to his needs with care and swiftness.
-
-And so, the use of the phrase [“operating system”](https://en.wikipedia.org/wiki/Operating_system) is both genuine in the sense that it seeks to dictate the lower-level functions of my brain, but it also is an ironic homage to the foolishness of my younger self, a reminder that I am in-fact human. It also sounds cool.
 
 This philosophical shift in the way I view productivity brought practical changes to my day-to-day life. Instead of constantly looking for new tools and hacks to “optimize” my day or developing increasingly complex productivity systems, my focus shifted down to my elephant. 
 
@@ -313,7 +311,7 @@ Self-discipline is important, but it requires a foundation. I need to be healthy
 
 My elephant is my friend and my companion. If I want to get to my destination (flourishing, success, peace), I must persuade the elephant to get up and start walking. If I abuse my elephant, he will not trust me. He will not obey me. So I will resort to increasingly abusive methods to compel his obedience. Eventually he will be broken and so will I.
 
-As I learn to treat my elephant better, I developed a simple, plain-text “operating system” to govern my behavior throughout the day. It helps me lead my elephant to places that matter.
+As I learn to treat my elephant better, I developed a simple, plain-text work system to govern my behavior throughout the day. It helps me lead my elephant to places that matter.
 
 **How do you treat your elephant? Do you have any advice on how to be kinder to yourself? Please let me know via email or in the comments below.**
 
