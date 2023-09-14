@@ -1,24 +1,44 @@
-{{- $cover := false -}}
-{{- $autoCover := default $.Site.Params.autoCover false }}
+{{- $cover := "" -}}
+{{- $autoCover := default $.Site.Params.autoCover false -}}
+{{- $imgFound := false -}}
+{{- $coverName := .Params.Cover -}}
 
-{{- if index .Params "cover" -}}
-  {{- if .Resources.GetMatch .Params.Cover }}
-    {{- $cover = (.Resources.GetMatch .Params.Cover).RelPermalink -}}
-  {{- else -}}
-    {{- $cover = absURL .Params.Cover -}}
+{{- if $coverName -}}
+  {{- $extensions := slice "avif" "webp" "jpg" "png" -}}
+  {{- range $extensions -}}
+    {{- if not $imgFound -}}
+      {{- with $.Page.Resources.GetMatch (printf "%s.%s" $coverName .) -}}
+        {{- $cover = .RelPermalink -}}
+        {{- $imgFound = true -}}
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
-{{- else if $.Site.Params.AutoCover -}}
-  {{- if (not .Params.Cover) -}}
-    {{- if .Resources.GetMatch "cover.*" -}}
-      {{- $cover = (.Resources.GetMatch "cover.*").RelPermalink -}}
+{{- else if $autoCover -}}
+  {{- $extensions := slice "avif" "webp" "jpg" "png" -}}
+  {{- range $extensions -}}
+    {{- if not $imgFound -}}
+      {{- with $.Page.Resources.GetMatch (printf "cover*.%s" .) -}}
+        {{- $cover = .RelPermalink -}}
+        {{- $imgFound = true -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
 
-{{if $cover -}}
+{{- if $cover -}}
   <!-- Cover image found -->
-  <img src="{{ $cover }}"
-    class="post-cover"
-    alt="{{ .Title | plainify | default " " }}"
-    title="{{ .Params.CoverCredit |plainify|default "Cover Image" }}" />
-{{- end }}
+  <picture>
+    {{- $exts := slice "avif" "webp" -}}
+    {{- range $exts -}}
+      {{- if eq . "avif" -}}
+        <source srcset="{{ $cover }}" type="image/avif">
+      {{- else if eq . "webp" -}}
+        <source srcset="{{ $cover }}" type="image/webp">
+      {{- end -}}
+    {{- end -}}
+    <img src="{{ $cover }}"
+      class="post-cover"
+      alt="{{ $.Page.Title | plainify | default " " }}"
+      title="{{ $.Page.Params.CoverCredit | plainify | default "Cover Image" }}" />
+  </picture>
+{{- end -}}

@@ -1,8 +1,36 @@
-{{ if .Get "src" }}
-  <figure class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}" >
-    <img src="{{ .Get "src" | safeURL }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }} {{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} />
-    {{ if .Get "caption" }}
-      <figcaption class="{{ with .Get "captionPosition"}}{{ . }}{{ else -}} center {{- end }}" {{ with .Get "captionStyle" }} style="{{ . | safeCSS }}" {{ end }}>{{ .Get "caption" | safeHTML }}</figcaption>
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $style := .Get "style" }}
+{{ $position := .Get "position" | default "left" }}
+{{ $caption := .Get "caption" }}
+{{ $captionPosition := .Get "captionPosition" | default "center" }}
+{{ $captionStyle := .Get "captionStyle" }}
+{{ $pageResources := .Page.Resources }}
+{{ $fallbackImg := "" }}
+
+<figure class="{{ $position }}">
+  <picture>
+    {{ range $ext := slice "avif" "webp" "jpg" "png" }}
+      {{ $img := printf "%s.%s" $src $ext }}
+      {{ $resource := $pageResources.GetMatch $img }}
+      {{ if $resource }}
+        {{ if eq $ext "avif" }}
+          <source srcset="{{ $resource.RelPermalink }}" type="image/avif">
+        {{ else if eq $ext "webp" }}
+          <source srcset="{{ $resource.RelPermalink }}" type="image/webp">
+        {{ else }}
+          {{ $fallbackImg = $resource.RelPermalink }}
+        {{ end }}
+      {{ end }}
     {{ end }}
-  </figure>
-{{ end }}
+    {{ if $fallbackImg }}
+      <img src="{{ $fallbackImg }}" alt="{{ $alt }}" style="{{ $style }}" />
+    {{ else }}
+      <!-- Fallback to original src -->
+      <img src="{{ $src }}" alt="{{ $alt }}" style="{{ $style }}" />
+    {{ end }}
+  </picture>
+  {{ if $caption }}
+    <figcaption class="{{ $captionPosition }}" style="{{ $captionStyle }}">{{ $caption | safeHTML }}</figcaption>
+  {{ end }}
+</figure>
