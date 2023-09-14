@@ -1,14 +1,16 @@
 {{ $src := .Get "src" }}
 {{ $alt := .Get "alt" }}
 {{ $style := .Get "style" }}
-{{ $position := .Get "position" | default "left" }}
+{{ $class := .Get "class" }}
+{{ $imgClass := .Get "imgClass" }}
+{{ $position := .Get "position" | default "center" }}
 {{ $caption := .Get "caption" }}
 {{ $captionPosition := .Get "captionPosition" | default "center" }}
 {{ $captionStyle := .Get "captionStyle" }}
 {{ $pageResources := .Page.Resources }}
 {{ $fallbackImg := "" }}
 
-<figure class="{{ $position }}">
+<figure class="{{ $position }} {{ $class }}">
   <picture>
     {{ range $ext := slice "avif" "webp" "jpg" "png" }}
       {{ $img := printf "%s.%s" $src $ext }}
@@ -24,10 +26,10 @@
       {{ end }}
     {{ end }}
     {{ if $fallbackImg }}
-      <img src="{{ $fallbackImg }}" alt="{{ $alt }}" style="{{ $style }}" />
+      <img src="{{ $fallbackImg }}" alt="{{ $alt }}" style="{{ $style }}" class="{{ $imgClass }}" loading="lazy" />
     {{ else }}
       <!-- Fallback to original src -->
-      <img src="{{ $src }}" alt="{{ $alt }}" style="{{ $style }}" />
+      <img src="{{ $src }}" alt="{{ $alt }}" style="{{ $style }}" class="{{ $imgClass }}" loading="lazy" />
     {{ end }}
   </picture>
   {{ if $caption }}
