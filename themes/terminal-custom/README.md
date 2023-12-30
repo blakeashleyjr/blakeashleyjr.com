@@ -7,19 +7,25 @@
 
 ---
 
-- [Features](#features)
-- [Built-in shortcodes](#built-in-shortcodes)
-- [Code highlighting](#code-highlighting)
-- [How to start](#how-to-start)
-- [How to run your site](#how-to-run-your-site)
-- [How to configure](#how-to-configure)
-- [Post archetype](#post-archetype)
-- [Add-ons](#add-ons)
-- [How to edit the theme](#how-to-edit)
-- [Found a bug?](#bug)
-- [New cool idea or feature](#feature)
-- [Terminal theme user?](#terminal-theme-user)
-- [Licence](#licence)
+- [Terminal](#terminal)
+    - [DEMO - https://hugo-terminal.now.sh/](#demo---httpshugo-terminalnowsh)
+    - [⚠️ The theme needs at least Hugo **Extended** v0.90.x.](#️-the-theme-needs-at-least-hugo-extended-v090x)
+  - [Features](#features)
+      - [Built-in shortcodes](#built-in-shortcodes)
+      - [Code highlighting](#code-highlighting)
+  - [How to start](#how-to-start)
+    - [Install theme as Hugo Module](#install-theme-as-hugo-module)
+    - [Install theme locally](#install-theme-locally)
+    - [Install theme as a submodule](#install-theme-as-a-submodule)
+  - [How to run your site](#how-to-run-your-site)
+  - [How to configure](#how-to-configure)
+  - [Post archetype](#post-archetype)
+  - [Add-ons](#add-ons)
+  - [How to edit the theme ](#how-to-edit-the-theme-)
+  - [Found a bug? ](#found-a-bug-)
+  - [New cool idea or feature? ](#new-cool-idea-or-feature-)
+  - [Terminal theme user?](#terminal-theme-user)
+  - [License](#license)
 
 ## Features
 

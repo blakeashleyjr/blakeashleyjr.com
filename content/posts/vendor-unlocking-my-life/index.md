@@ -31,6 +31,8 @@ A personal turning point came with a widely-reported [incident](https://web.arch
 
 Realizing the extent of my dependence on a few major players like Google was a wake-up call. My goal for 2023 was clear: to minimize my dependency on any single platform or service.
 
+{{< newsletter-form >}}
+
 ## Improvements I Made This Year:
 
 ### Email/Calendar
@@ -69,6 +71,7 @@ My first step was to address my email and calendar dependencies.
 - **Todo:**
   - Move away from Cloudflare hosting for greater independence.
   - Enable Tor access to my site for increased privacy and accessibility.
+  - Self-host my newsletter system.
 
 ### Homelab
 - Undertook a massive overhaul by moving dozens of services into a self-hosted k3s cluster and Ceph storage.
