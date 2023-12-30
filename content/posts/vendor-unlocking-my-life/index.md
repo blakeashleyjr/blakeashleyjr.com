@@ -1,5 +1,5 @@
 +++
-title = "My Journey to Tech Independence in 2023"
+title = "Vendor Unlocking My Life"
 date = 2023-12-30T11:24:13-06:00
 author = "Blake Ashley Jr."
 authorTwitter = "" #do not include @
