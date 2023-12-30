@@ -91,7 +91,7 @@ My first step was to address my email and calendar dependencies.
 - Switch as much of my financial life over to opensource, private, and decentralized currencies as possible. [Monero](https://www.getmonero.org/) is my currency of choice.
 - Break my dependence on YouTube, for personal and privacy reasons. I use privacy respecting frontends and clients, but the service still has a strong grip on me.
 
-Stay tuned for more updates on my journey to tech independence and how you can do the same. Let me know in the comments what you did for your digital life in 2023 and plan to do in 2024!
+Stay tuned for more updates on my journey to tech independence and how you can do the same.
 
 [^1]: Proton Mail is not perfect, because [email is not perfect](https://www.privacyguides.org/en/basics/email-security/#what-is-the-web-key-directory-standard). I do believe Proton does care about privacy and has made huge strides for consumers however. For paramount security, I use PGP to encrypt messages before they even hit the browser.
 [^2]: Currently, I sync my calendars with [reclaim.ai](https://reclaim.ai/), but I'm seeking alternatives that don't require a Google account.
