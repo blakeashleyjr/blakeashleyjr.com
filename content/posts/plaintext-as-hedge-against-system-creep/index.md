@@ -18,7 +18,7 @@ code-license = "Apache License 2.0"
 code-license-link = "https://www.apache.org/licenses/LICENSE-2.0.html"
 +++
 
-I have tried every productivity system imaginable, pairing them with every conceivable app out there, spedning countless hours tuning dials and configuring things just the way I need "to get work done."
+I have tried every productivity system imaginable, pairing them with every conceivable app out there, spending countless hours tuning dials and configuring things just the way I need "to get work done."
 
 For many years, Todoist was my go-to tool. However, I decided to transition away due to concerns about data sovereignty. In my quest for the perfect system, I set up countless rules, reminders, and filters.
 
