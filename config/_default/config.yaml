@@ -25,16 +25,17 @@ languages:
   en:
     languageName: English
     title: Blake Ashley Jr.
-    subtitle: My thoughts on tech, work, and life
-    keywords: 'tech, work, life'
-    menuMore: Show more
-    readMore: Read more
-    readOtherPosts: Read other posts
 
     params:
+      subtitle: My thoughts on tech, work, and life
+      keywords: 'tech, work, life'
+      menuMore: Show more
+      readMore: Read more
+      readOtherPosts: Read other posts
       logo:
         logoText: Blake Ashley Jr.
         logoHomeLink: /
+
 
     # menu:
     #   main:

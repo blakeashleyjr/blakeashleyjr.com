@@ -1,16 +1,13 @@
 +++
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = "{{ .Date }}"
-author = "Blake Ashley Jr."
-authorTwitter = "" #do not include @
-cover = ""
+author = "Blake Ashley Jr."cover = ""
 tags = ["", ""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = true
 hideComments = true
-color = "" #color from the theme settings
 draft = true
 lastmod = ["lastmod", ":git", "date", "publishDate"]
 license = true
